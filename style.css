@@ -1,0 +1,19 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+menu{
+    background-color: yellow;
+}
+ul{
+    list-style: none;
+    justify-content: space-around;
+}
+
+li{
+    text-align: justify;
+    align-items: center;
+    display: grid;
+    justify-content: space-around;
+}
